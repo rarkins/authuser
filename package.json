@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "jade": "^1.0.0"
+    "jade": "1.11.0"
   }
 }
